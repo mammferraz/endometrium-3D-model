@@ -1,0 +1,10 @@
+library,experiment,well,condition,hormone,embryo,gene_assigned_counts,genes_detected,passes_depth
+Hydrog.Exp1.B2,Exp1,B2,Embryo,yes,yes,25533578,32007,TRUE
+Hydrog.Exp1.B3,Exp1,B3,Hormone,yes,no,2714030,10572,FALSE
+Hydrog.Exp1.B4,Exp1,B4,No hormone,no,no,5020855,7115,FALSE
+Hydrog.Exp2.B2,Exp2,B2,Embryo,yes,yes,27075462,33097,TRUE
+Hydrog.Exp2.B3,Exp2,B3,Hormone,yes,no,33803094,33766,TRUE
+Hydrog.Exp2.B4,Exp2,B4,No hormone,no,no,29523833,29080,TRUE
+Hydrog.Exp3.B2,Exp3,B2,Embryo,yes,yes,35369782,35850,TRUE
+Hydrog.Exp3.B3,Exp3,B3,Hormone,yes,no,25810899,32698,TRUE
+Hydrog.Exp3.B4,Exp3,B4,No hormone,no,no,23811511,31818,TRUE

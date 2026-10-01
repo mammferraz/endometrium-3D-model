@@ -1,0 +1,122 @@
+Key results for the manuscript
+Generated: 2026-09-30 09:31:32.449918
+
+RNA-seq library QC (threshold 10 million gene-assigned counts): 
+  Hydrog.Exp1.B2  Embryo      25,533,578 counts  32,007 genes  retained 
+  Hydrog.Exp1.B3  Hormone     2,714,030 counts  10,572 genes  EXCLUDED (low depth) 
+  Hydrog.Exp1.B4  No hormone  5,020,855 counts  7,115 genes  EXCLUDED (low depth) 
+  Hydrog.Exp2.B2  Embryo      27,075,462 counts  33,097 genes  retained 
+  Hydrog.Exp2.B3  Hormone     33,803,094 counts  33,766 genes  retained 
+  Hydrog.Exp2.B4  No hormone  29,523,833 counts  29,080 genes  retained 
+  Hydrog.Exp3.B2  Embryo      35,369,782 counts  35,850 genes  retained 
+  Hydrog.Exp3.B3  Hormone     25,810,899 counts  32,698 genes  retained 
+  Hydrog.Exp3.B4  No hormone  23,811,511 counts  31,818 genes  retained 
+ 
+== Hormone vs No hormone (Hormone vs No hormone; libraries: Hydrog.Exp2.B3, Hydrog.Exp3.B3, Hydrog.Exp2.B4, Hydrog.Exp3.B4) 
+  genes tested after filtering: 16627; genes with non-NA padj: 14048 
+  DEGs: 77 (41 higher, 36 lower in Hormone) 
+  Sensitivity (~ experiment + condition): 259 DEGs; 62 of the 77 primary DEGs also significant; 77 of 77 have the same direction of change 
+ 
+== Embryo vs No embryo (Embryo vs No embryo; libraries: Hydrog.Exp1.B2, Hydrog.Exp2.B2, Hydrog.Exp3.B2, Hydrog.Exp2.B3, Hydrog.Exp3.B3) 
+  genes tested after filtering: 16753; genes with non-NA padj: 16753 
+  DEGs: 104 (101 higher, 3 lower in Embryo) 
+  Sensitivity (~ experiment + condition): 96 DEGs; 72 of the 104 primary DEGs also significant; 104 of 104 have the same direction of change 
+  Genes quoted in text (hormone): GREB1 +4.84; SELENOP +1.86; DHRS9 +1.74; HLTF +1.62; TRPM3 +1.71; EIF4A2 +1.18; PTGS1 -2.16; WNT7B -2.19; RGS3 -1.34; NR4A1 -1.52; IL11 -2.17; SLC6A12 -3.44; CD247 -2.05; RANBP3L -4.93; LY6G6C -2.73; LY6G6E -2.03; LY6G6F -2.01; POSTN +2.17; LUM +2.56; DCN +1.81; FMOD +1.76; EMB +2.68; LOX +2.09; HBA1 +4.31; HBA +4.41; HBA2 not tested; PADI1 +4.79; EPYC not tested 
+  Genes quoted in text (embryo): RSAD2 +4.24; CMPK2 +3.11; ISG15 +5.34; IFI6 +4.49; IFI44 +8.45; IFI44L +6.52; IFIT1 not tested; IFIT2 +3.76; OAS1Z +4.90; MX2 +6.29; STAT1 +2.01; TNFSF10 +3.93; ZBP1 +5.78; PLAC8 +4.56; PSMA8 +5.32; SFI1 -1.05; NRXN1 -1.43; KEH36_p01 -1.22 
+  PCA variance explained — hormone: PC1 52.8%, PC2 38.4%; embryo: PC1 48%, PC2 24.1% 
+ 
+== Gene Ontology enrichment 
+  GO BP (Hormone vs No hormone, Higher in Hormone): 41 genes, 41 mapped to Entrez; 2 terms with padj < 0.05. Top: hydrogen peroxide metabolic process; hydrogen peroxide catabolic process 
+  GO BP (Hormone vs No hormone, Lower in Hormone): 36 genes, 44 mapped to Entrez; 0 terms with padj < 0.05 
+  GO BP (Embryo vs No embryo, Higher in Embryo): 101 genes, 95 mapped to Entrez; 72 terms with padj < 0.05. Top: defense response to virus; response to virus; biological process involved in interspecies interaction between organisms; response to external biotic stimulus; response to other organism; response to biotic stimulus; defense response; regulation of viral life cycle 
+  GO BP (Embryo vs No embryo, Lower in Embryo): 3 genes, 2 mapped to Entrez; 0 terms with padj < 0.05 
+ 
+== Reactome pathway enrichment (human orthologues by gene symbol) 
+  Reactome (Hormone vs No hormone, Higher in Hormone): 41 genes, 39 mapped to human Entrez; 9 pathways with padj < 0.05. Top: Diseases associated with glycosaminoglycan metabolism; Extracellular matrix organization; ECM proteoglycans; Keratan sulfate degradation; Signaling by Retinoic Acid; Keratan sulfate biosynthesis; Keratan sulfate/keratin metabolism; Diseases of glycosylation 
+  Reactome (Hormone vs No hormone, Lower in Hormone): 36 genes, 35 mapped to human Entrez; 0 pathways with padj < 0.05 
+  Reactome (Embryo vs No embryo, Higher in Embryo): 101 genes, 93 mapped to human Entrez; 31 pathways with padj < 0.05. Top: Interferon Signaling; Interferon alpha/beta signaling; Modulation of host responses by IFN-stimulated genes; Antiviral mechanism by IFN-stimulated genes; ISG15 antiviral mechanism; Interferon gamma signaling; DDX58/IFIH1-mediated induction of interferon-alpha/beta; Negative regulators of DDX58/IFIH1 signaling 
+  Reactome (Embryo vs No embryo, Lower in Embryo): 3 genes, 2 mapped to human Entrez; 0 pathways with padj < 0.05 
+ 
+== Young's modulus 
+  544 indentation sites from 52 hydrogels in 3 independent preparations; native tissue: 32 sites 
+  Day -3: Cells / No cells                 ratio 0.88 (95% CI 0.46–1.69), Holm p = 1.000 
+  Day 1: Cells / No cells                  ratio 0.69 (95% CI 0.36–1.31), Holm p = 0.524 
+  Day 1: Cells + hormones / No cells       ratio 0.70 (95% CI 0.34–1.41), Holm p = 0.646 
+  Day 1: Cells + hormones / Cells          ratio 1.01 (95% CI 0.50–2.04), Holm p = 1.000 
+  Day 7: Cells / No cells                  ratio 0.39 (95% CI 0.18–0.84), Holm p = 0.005 
+  Day 7: Cells + hormones / No cells       ratio 0.80 (95% CI 0.39–1.67), Holm p = 1.000 
+  Day 7: Cells + hormones / Cells          ratio 2.04 (95% CI 0.91–4.57), Holm p = 0.086 
+  No cells: Day 7 / Day -3                 ratio 0.61 (95% CI 0.42–0.89), Holm p = 0.002 
+  No cells: Day 7 / Day 1                  ratio 0.77 (95% CI 0.53–1.12), Holm p = 0.313 
+  Cells: Day 7 / Day -3                    ratio 0.28 (95% CI 0.15–0.49), Holm p = 5.74e-09 
+  Cells: Day 7 / Day 1                     ratio 0.44 (95% CI 0.26–0.76), Holm p = 1.97e-04 
+  Cells + hormones: Day 7 / Day 1          ratio 0.89 (95% CI 0.63–1.25), Holm p = 1.000 
+  Cells x Day interaction (no-hormone hydrogels): chi2(2) = 12.11, p = 0.002 
+  Native tissue: mean 2358 Pa, median 1820 Pa (n = 32 sites) 
+ 
+== Viscoelasticity: tan(delta) = E''/E' (mean over 1–20 Hz); all conditions < 1: TRUE 
+  Day -3 No cells          mean tan(delta) 0.286 (91 sites, 15 hydrogels) 
+  Day -3 Cells             mean tan(delta) 0.231 (72 sites, 11 hydrogels) 
+  Day 1 No cells          mean tan(delta) 0.211 (88 sites, 12 hydrogels) 
+  Day 1 Cells             mean tan(delta) 0.284 (75 sites, 14 hydrogels) 
+  Day 1 Cells + hormones  mean tan(delta) 0.313 (67 sites, 12 hydrogels) 
+  Day 7 No cells          mean tan(delta) 0.311 (63 sites, 9 hydrogels) 
+  Day 7 Cells             mean tan(delta) 0.381 (31 sites, 6 hydrogels) 
+  Day 7 Cells + hormones  mean tan(delta) 0.307 (54 sites, 10 hydrogels) 
+  Day -3: Cells / No cells                 ratio 1.09 (95% CI 0.65–1.82), Holm p = 1.000 
+  Day 1: Cells / No cells                  ratio 1.32 (95% CI 0.79–2.21), Holm p = 1.000 
+  Day 1: Cells + hormones / No cells       ratio 1.25 (95% CI 0.73–2.15), Holm p = 1.000 
+  Day 1: Cells + hormones / Cells          ratio 0.95 (95% CI 0.55–1.62), Holm p = 1.000 
+  Day 7: Cells / No cells                  ratio 1.47 (95% CI 0.81–2.67), Holm p = 0.594 
+  Day 7: Cells + hormones / No cells       ratio 1.16 (95% CI 0.66–2.05), Holm p = 1.000 
+  Day 7: Cells + hormones / Cells          ratio 0.79 (95% CI 0.42–1.46), Holm p = 1.000 
+  No cells: Day 7 / Day -3                 ratio 0.92 (95% CI 0.67–1.25), Holm p = 1.000 
+  No cells: Day 7 / Day 1                  ratio 1.29 (95% CI 0.95–1.75), Holm p = 0.200 
+  Cells: Day 7 / Day -3                    ratio 1.24 (95% CI 0.81–1.90), Holm p = 1.000 
+  Cells: Day 7 / Day 1                     ratio 1.44 (95% CI 0.97–2.13), Holm p = 0.099 
+  Cells + hormones: Day 7 / Day 1          ratio 1.19 (95% CI 0.85–1.67), Holm p = 1.000 
+ 
+== Gland area, hormone vs no hormone 
+  1858 gland measurements from 19 hydrogels in 3 independent experiments; imaging days: -3, 0, 2, 4, 7, 8, 9, 10 
+  Treatment x day interaction: chi2(7) = 26.73, p = 3.73e-04 
+  Day -3: Hormone / No hormone area ratio 1.167 (95% CI 0.891–1.528), p = 0.256, Holm p = 1.000 
+  Day 0: Hormone / No hormone area ratio 0.941 (95% CI 0.742–1.193), p = 0.607, Holm p = 1.000 
+  Day 2: Hormone / No hormone area ratio 0.904 (95% CI 0.719–1.138), p = 0.379, Holm p = 1.000 
+  Day 4: Hormone / No hormone area ratio 0.750 (95% CI 0.588–0.957), p = 0.022, Holm p = 0.154 
+  Day 7: Hormone / No hormone area ratio 0.752 (95% CI 0.561–1.008), p = 0.056, Holm p = 0.282 
+  Day 8: Hormone / No hormone area ratio 0.717 (95% CI 0.524–0.983), p = 0.039, Holm p = 0.232 
+  Day 9: Hormone / No hormone area ratio 0.562 (95% CI 0.414–0.762), p = 3.07e-04, Holm p = 0.002 
+  Day 10: Hormone / No hormone area ratio 0.862 (95% CI 0.626–1.187), p = 0.360, Holm p = 1.000 
+ 
+== Gland area, embryo vs no embryo (hormone-treated co-cultures) 
+  389 gland measurements from 14 hydrogels in 3 experiments 
+  Embryo x day interaction: chi2(2) = 0.88, p = 0.643; embryo main effect: chi2(1) = 0.69, p = 0.405 
+  Day 8: Embryo / No embryo area ratio 1.078 (95% CI 0.743–1.564), Holm p = 1.000 
+  Day 9: Embryo / No embryo area ratio 0.999 (95% CI 0.711–1.404), Holm p = 1.000 
+  Day 10: Embryo / No embryo area ratio 1.223 (95% CI 0.835–1.790), Holm p = 0.812 
+ 
+== Blastocyst hatching (hatched/total per IVF replicate) 
+  2D well             1/5, 1/5, 1/5; total 3/15 (20.0%) 
+  Cell-free hydrogel  2/5, 3/5, 4/5; total 9/15 (60.0%) 
+  Co-culture          3/5, 4/5, 3/5; total 10/15 (66.7%) 
+  Model: binomial GLM, IVF replicate as fixed blocking factor (random-effect variance not estimable) 
+  Treatment effect: likelihood-ratio chi2(2) = 8.21, p = 0.017 
+  (Cell-free hydrogel) / 2D well       OR 6.22 (95% CI 0.82–46.87), Holm p = 0.061 
+  (Co-culture) / 2D well               OR 8.34 (95% CI 1.07–65.14), Holm p = 0.040 
+  (Co-culture) / (Cell-free hydrogel)  OR 1.34 (95% CI 0.21–8.46), Holm p = 0.702 
+ 
+== EndoECM proteomics (10 samples: 5 follicular, 5 luteal; detected in >= 6 samples) 
+  proteins retained: 1985; matrisome proteins: 192 (109 core matrisome, 83 matrisome-associated) 
+  Collagens           24 proteins, 80.4% of matrisome intensity 
+  ECM Glycoproteins   73 proteins, 10.8% of matrisome intensity 
+  ECM Regulators      50 proteins, 3.7% of matrisome intensity 
+  Proteoglycans       12 proteins, 3.5% of matrisome intensity 
+  ECM-affiliated      21 proteins, 1.1% of matrisome intensity 
+  Secreted Factors    12 proteins, 0.6% of matrisome intensity 
+  top in Collagens: COL1A1 70.0%, COL1A2 23.9%, COL6A3 1.8% 
+  top in ECM Glycoproteins: DPT 33.2%, FGB 8.6%, FGA 6.6% 
+  top in ECM Regulators: TGM2 59.3%, SERPINH1 9.3%, HRG 3.9% 
+  top in ECM-affiliated: ANXA2 27.6%, ANXA5 22.2%, ANXA1 9.9% 
+  top in Proteoglycans: LUM 53.9%, OGN 10.8%, HSPG2 7.6% 
+  top in Secreted Factors: S100A4 69.3%, S100A11 21.1%, S100A10 2.0% 
+  collagen I (COL1A1 + COL1A2) = 93.9% of collagens; collagen VI = 3.2%; laminin isoforms detected: 11 

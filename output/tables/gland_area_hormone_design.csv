@@ -1,0 +1,37 @@
+experiment,Day,treatment,glands
+1,-3,No hormone,24
+1,-3,Hormone,40
+1,0,No hormone,33
+1,0,Hormone,67
+1,2,No hormone,49
+1,2,Hormone,79
+1,4,No hormone,49
+1,4,Hormone,68
+1,8,No hormone,49
+1,8,Hormone,86
+1,10,No hormone,47
+1,10,Hormone,80
+2,-3,No hormone,13
+2,-3,Hormone,27
+2,0,No hormone,31
+2,0,Hormone,62
+2,2,No hormone,49
+2,2,Hormone,89
+2,4,No hormone,32
+2,4,Hormone,100
+2,7,No hormone,26
+2,7,Hormone,83
+2,9,No hormone,34
+2,9,Hormone,91
+3,-3,No hormone,26
+3,-3,Hormone,80
+3,0,No hormone,57
+3,0,Hormone,86
+3,2,No hormone,43
+3,2,Hormone,82
+3,4,No hormone,18
+3,4,Hormone,40
+3,7,No hormone,21
+3,7,Hormone,46
+3,9,No hormone,7
+3,9,Hormone,44

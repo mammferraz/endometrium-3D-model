@@ -1,0 +1,10 @@
+Replicate,Group,Total,Hatched,Hatching
+1,Cell,5,3,60
+1,No_Cell,5,2,40
+1,Well_2D,5,1,20
+2,Cell,5,4,80
+2,No_Cell,5,3,60
+2,Well_2D,5,1,20
+3,Cell,5,3,60
+3,No_Cell,5,4,80
+3,Well_2D,5,1,20

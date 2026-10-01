@@ -1,0 +1,10 @@
+library,experiment,well,condition,hormone,embryo
+Hydrog.Exp1.B2,Exp1,B2,Embryo,yes,yes
+Hydrog.Exp1.B3,Exp1,B3,Hormone,yes,no
+Hydrog.Exp1.B4,Exp1,B4,No hormone,no,no
+Hydrog.Exp2.B2,Exp2,B2,Embryo,yes,yes
+Hydrog.Exp2.B3,Exp2,B3,Hormone,yes,no
+Hydrog.Exp2.B4,Exp2,B4,No hormone,no,no
+Hydrog.Exp3.B2,Exp3,B2,Embryo,yes,yes
+Hydrog.Exp3.B3,Exp3,B3,Hormone,yes,no
+Hydrog.Exp3.B4,Exp3,B4,No hormone,no,no

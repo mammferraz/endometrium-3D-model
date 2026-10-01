@@ -1,0 +1,193 @@
+Matrisome_Division,Matrisome_Category,Genes,mean_intensity,percent_within
+Core matrisome,Collagens,COL1A1,3410040000,70.00074640938817
+Core matrisome,Collagens,COL1A2,1163839900,23.89111614556653
+Core matrisome,Collagens,COL6A3,88130060,1.8091195355785166
+Core matrisome,Collagens,COL6A1,47534630,0.9757831521900316
+Core matrisome,Collagens,COL3A1,33324220,0.6840741673149469
+Core matrisome,Collagens,COL6A2,21591539,0.4432276003001181
+Core matrisome,Collagens,COL5A2,19116631,0.39242309146897064
+Core matrisome,Collagens,COL18A1,15685618,0.32199181472725674
+Core matrisome,Collagens,COL15A1,8879601,0.18227900488485463
+Core matrisome,Collagens,COL4A1,8601590,0.1765720403008555
+Core matrisome,Collagens,COL14A1,8370954,0.17183758201037336
+Core matrisome,Collagens,COL5A1,8311922,0.1706257827170985
+Core matrisome,Collagens,COL5A3,8176763,0.16785126075138945
+Core matrisome,Collagens,COL4A2,6475868,0.13293556487568234
+Core matrisome,Collagens,COL12A1,6459544,0.13260046845910456
+Core matrisome,Collagens,COL4A2,5230418,0.10736916987281653
+Core matrisome,Collagens,COL16A1,3136488.3,0.06438532161039548
+Core matrisome,Collagens,COL4A3,2643501.7,0.0542653728796397
+Core matrisome,Collagens,COL4A5,1845053.4,0.03787495606068534
+Core matrisome,Collagens,COL3A1,1836591,0.03770124129006247
+Core matrisome,Collagens,COL4A6,1029575.2,0.021134952224781855
+Core matrisome,Collagens,COL2A1,634545.13,0.013025839207294417
+Core matrisome,Collagens,COL11A1,398322.6,0.008176701537732155
+Core matrisome,Collagens,COL26A1,140434.9,0.0028828247826793198
+Core matrisome,ECM Glycoproteins,DPT,216892680,33.1852154694472
+Core matrisome,ECM Glycoproteins,FGB,56419540,8.632354912056483
+Core matrisome,ECM Glycoproteins,FGA,43017130,6.58174691708001
+Core matrisome,ECM Glycoproteins,TINAGL1,39052170,5.975096420955663
+Core matrisome,ECM Glycoproteins,NID1,30567880,4.67697519457183
+Core matrisome,ECM Glycoproteins,CILP2,26512290,4.056458042929205
+Core matrisome,ECM Glycoproteins,FGG,24470669,3.7440840486019265
+Core matrisome,ECM Glycoproteins,NID2,22502990,3.4430233969021713
+Core matrisome,ECM Glycoproteins,FGG,21403402,3.274783211444467
+Core matrisome,ECM Glycoproteins,FN1,14963129,2.289402574407463
+Core matrisome,ECM Glycoproteins,TGFBI,12900054,1.973746055226503
+Core matrisome,ECM Glycoproteins,EMILIN1,11987313,1.8340940081735608
+Core matrisome,ECM Glycoproteins,FGB,9678631,1.480858898438948
+Core matrisome,ECM Glycoproteins,MFAP2,8124332,1.2430465978166019
+Core matrisome,ECM Glycoproteins,LAMB2,7297389,1.11652189612565
+Core matrisome,ECM Glycoproteins,MFAP2,7204671,1.1023357704901688
+Core matrisome,ECM Glycoproteins,VTN,6601823,1.0100982603292665
+Core matrisome,ECM Glycoproteins,VWA1,6556186,1.003115665626766
+Core matrisome,ECM Glycoproteins,LAMC1,6144859,0.9401814295640215
+Core matrisome,ECM Glycoproteins,ECM1,5735552,0.8775562594192613
+Core matrisome,ECM Glycoproteins,FBLN1,5344547,0.817731348893783
+Core matrisome,ECM Glycoproteins,SBSPON,5325507,0.814818173112386
+Core matrisome,ECM Glycoproteins,FBLN5,4163382,0.637009643440332
+Core matrisome,ECM Glycoproteins,LAMA4,3856601,0.5900712516655036
+Core matrisome,ECM Glycoproteins,MFAP4,3804916,0.5821632952442063
+Core matrisome,ECM Glycoproteins,MGP,3551855,0.543444220852605
+Core matrisome,ECM Glycoproteins,MFAP5,3480046,0.5324572334741212
+Core matrisome,ECM Glycoproteins,SPARC,3473248.7,0.5314172266601038
+Core matrisome,ECM Glycoproteins,POSTN,2717562,0.4157949476283933
+Core matrisome,ECM Glycoproteins,LAMA5,2631408,0.4026131332234316
+Core matrisome,ECM Glycoproteins,AEBP1,2448693,0.37465720292417004
+Core matrisome,ECM Glycoproteins,FBN1,2301638.4,0.35215741829901176
+Core matrisome,ECM Glycoproteins,TNXB,2287451,0.34998670453425385
+Core matrisome,ECM Glycoproteins,TNC,2131077,0.32606102440609397
+Core matrisome,ECM Glycoproteins,LTBP2,1900852.7899999998,0.29083604578932704
+Core matrisome,ECM Glycoproteins,MATN2,1880972.9,0.28779436437730843
+Core matrisome,ECM Glycoproteins,LAMB1,1848184.3,0.28277761251670386
+Core matrisome,ECM Glycoproteins,LAMA5,1393980.4,0.2132830851377105
+Core matrisome,ECM Glycoproteins,LTBP4,1379755.4,0.21110661846279602
+Core matrisome,ECM Glycoproteins,EFEMP2,1295549.1,0.19822280786400168
+Core matrisome,ECM Glycoproteins,MMRN2,1084172.6,0.16588158409528064
+Core matrisome,ECM Glycoproteins,AHSG,1058766.4,0.16199436106285797
+Core matrisome,ECM Glycoproteins,ECM2,1043290.5,0.1596265030231878
+Core matrisome,ECM Glycoproteins,EMILIN3,980069.9,0.14995356600609835
+Core matrisome,ECM Glycoproteins,LAMA3,964562,0.1475808118726779
+Core matrisome,ECM Glycoproteins,VWF,910635.2,0.13932985348358987
+Core matrisome,ECM Glycoproteins,SPON1,908501.9,0.13900345233367106
+Core matrisome,ECM Glycoproteins,IGFBP7,905081.3,0.1384800905123556
+Core matrisome,ECM Glycoproteins,AGRN,887822.2,0.1358393976484529
+Core matrisome,ECM Glycoproteins,FBLN2,876709.3,0.1341390913910429
+Core matrisome,ECM Glycoproteins,FBLN5,801475.5,0.1226280995789389
+Core matrisome,ECM Glycoproteins,EMILIN2,786870.1,0.12039343058956838
+Core matrisome,ECM Glycoproteins,PCOLCE,753462.2,0.11528192401460353
+Core matrisome,ECM Glycoproteins,THBS1,623119,0.09533903254875392
+Core matrisome,ECM Glycoproteins,EFEMP1,589882.2,0.09025370477505992
+Core matrisome,ECM Glycoproteins,PAPLN,568639.2,0.08700346353954443
+Core matrisome,ECM Glycoproteins,EMID1,409912.2,0.06271776751781173
+Core matrisome,ECM Glycoproteins,THSD4,362691.9,0.05549292327672468
+Core matrisome,ECM Glycoproteins,PXDN,352200.4,0.05388769303982731
+Core matrisome,ECM Glycoproteins,VWF,349392.1,0.05345801491236423
+Core matrisome,ECM Glycoproteins,LAMC3,319506.8,0.048885476457543764
+Core matrisome,ECM Glycoproteins,MXRA5,309768.5,0.04739548802729283
+Core matrisome,ECM Glycoproteins,LAMB3,304854.3,0.04664360103018459
+Core matrisome,ECM Glycoproteins,NID2,277866.1,0.04251432736298413
+Core matrisome,ECM Glycoproteins,LTBP1,260510.6,0.039858885016658796
+Core matrisome,ECM Glycoproteins,MFGE8,255559.1,0.03910129101027293
+Core matrisome,ECM Glycoproteins,LAMC2,248353.7,0.03799884370064702
+Core matrisome,ECM Glycoproteins,FGA,243377.42,0.0372374582816633
+Core matrisome,ECM Glycoproteins,LAMA2,224534.43,0.03435442560744562
+Core matrisome,ECM Glycoproteins,IGFBP6,211104.5,0.03229960697184394
+Core matrisome,ECM Glycoproteins,SPARCL1,179455.75,0.02745725550065244
+Core matrisome,ECM Glycoproteins,LRG1,161359.09,0.024688413502954195
+Core matrisome,ECM Glycoproteins,SRPX2,118832.85,0.018181774194032267
+Matrisome-associated,ECM Regulators,TGM2,131736090,59.25144647451032
+Matrisome-associated,ECM Regulators,SERPINH1,20611385,9.270461686642019
+Matrisome-associated,ECM Regulators,HRG,8763166,3.941442783038791
+Matrisome-associated,ECM Regulators,LOX,8263379,3.7166516671103005
+Matrisome-associated,ECM Regulators,PLG,7163819,3.2220983485359254
+Matrisome-associated,ECM Regulators,ITIH4,4638550,2.086298424709127
+Matrisome-associated,ECM Regulators,CELA3B,4205877,1.8916934299771158
+Matrisome-associated,ECM Regulators,A2M,3787383,1.7034657784588134
+Matrisome-associated,ECM Regulators,PRSS1,3620530,1.6284196646823117
+Matrisome-associated,ECM Regulators,KNG1,3092888,1.3911000985656645
+Matrisome-associated,ECM Regulators,ITIH2,2452776,1.1031944691691056
+Matrisome-associated,ECM Regulators,SERPINF2,2274352,1.022944022341907
+Matrisome-associated,ECM Regulators,SERPINC1,1955467.5,0.8795181176919287
+Matrisome-associated,ECM Regulators,ITIH1,1565952,0.7043242372659791
+Matrisome-associated,ECM Regulators,CTSD,1475330.3,0.6635649676764602
+Matrisome-associated,ECM Regulators,MMP3,1472103.7,0.6621137274188007
+Matrisome-associated,ECM Regulators,SERPINF1,1393357,0.6266955221259738
+Matrisome-associated,ECM Regulators,MASP2,1372012.9,0.6170955044034454
+Matrisome-associated,ECM Regulators,F2,1207408.7,0.5430608420282406
+Matrisome-associated,ECM Regulators,F10,914456.4,0.4112985624354981
+Matrisome-associated,ECM Regulators,TGM1,870638,0.39159019260154687
+Matrisome-associated,ECM Regulators,LOXL1,807725.5,0.3632937961749668
+Matrisome-associated,ECM Regulators,A2M,802052.7,0.3607423191608805
+Matrisome-associated,ECM Regulators,CTSH,775887.3,0.3489738068452034
+Matrisome-associated,ECM Regulators,ITIH5,704606,0.3169133431439996
+Matrisome-associated,ECM Regulators,PLOD3,554256.8,0.24929020679400288
+Matrisome-associated,ECM Regulators,ADAMTSL5,496821.3,0.223457221664516
+Matrisome-associated,ECM Regulators,ADAMTS5,417633.9,0.18784080104237946
+Matrisome-associated,ECM Regulators,P4HA2,382480.4,0.17202967651574672
+Matrisome-associated,ECM Regulators,CTSZ,357827.3,0.16094135717151273
+Matrisome-associated,ECM Regulators,MMP14,339806.9,0.15283625274607193
+Matrisome-associated,ECM Regulators,SERPING1,334311.5,0.1503645656104053
+Matrisome-associated,ECM Regulators,MMP2,287234.13,0.12919039633973908
+Matrisome-associated,ECM Regulators,P4HA1,275344.2,0.12384261691968286
+Matrisome-associated,ECM Regulators,CTSS,263965.3,0.11872468542278777
+Matrisome-associated,ECM Regulators,LOX,233012.85,0.10480308326782814
+Matrisome-associated,ECM Regulators,F13B,229848.8,0.10337997636357985
+Matrisome-associated,ECM Regulators,SERPINA1,219132.52999999997,0.09856007850330933
+Matrisome-associated,ECM Regulators,KNG1,217045.63999999998,0.09762144998372
+Matrisome-associated,ECM Regulators,PLOD1,208025.07,0.09356423361632535
+Matrisome-associated,ECM Regulators,SERPINA10,199260.13,0.08962199293450236
+Matrisome-associated,ECM Regulators,SERPIND1,199174.73,0.08958358224894973
+Matrisome-associated,ECM Regulators,KNG2,194820.22,0.08762503758447912
+Matrisome-associated,ECM Regulators,SERPINA5,190951.1,0.08588480864202716
+Matrisome-associated,ECM Regulators,SERPINE2,164789.57,0.07411803695109344
+Matrisome-associated,ECM Regulators,CTSW,160481.2,0.07218024485139331
+Matrisome-associated,ECM Regulators,F9,141369.5,0.06358430223925947
+Matrisome-associated,ECM Regulators,SERPINA3-8,129314.6,0.058162323629559004
+Matrisome-associated,ECM Regulators,CSTB,116868.58,0.05256442947731352
+Matrisome-associated,ECM Regulators,HTRA1,92995.3,0.04182685276548764
+Matrisome-associated,ECM-affiliated,ANXA2,17606392,27.591504941548333
+Matrisome-associated,ECM-affiliated,ANXA5,14155864,22.184079026974192
+Matrisome-associated,ECM-affiliated,ANXA1,6317483,9.900317078743198
+Matrisome-associated,ECM-affiliated,ANXA5,5509509.9,8.634118201580396
+Matrisome-associated,ECM-affiliated,LGALS1,3111937,4.876809803694425
+Matrisome-associated,ECM-affiliated,ANXA3,2257125,3.5372082815827506
+Matrisome-associated,ECM-affiliated,ANXA6,1804809.5,2.8283710960089596
+Matrisome-associated,ECM-affiliated,ANXA7,1740830,2.7281069027314393
+Matrisome-associated,ECM-affiliated,ANXA3,1557572.2,2.440918108214239
+Matrisome-associated,ECM-affiliated,LGALS9,1441094.6,2.2583825679411555
+Matrisome-associated,ECM-affiliated,CLEC3B,1409320.5,2.2085884228850166
+Matrisome-associated,ECM-affiliated,ANXA4,1348383.3,2.113091909179987
+Matrisome-associated,ECM-affiliated,HPX,1236696.5,1.9380641752691596
+Matrisome-associated,ECM-affiliated,PLXNB2,1228938.3,1.92590606737076
+Matrisome-associated,ECM-affiliated,CSPG4,1033886.7,1.620234855162324
+Matrisome-associated,ECM-affiliated,ANXA11,886105.2,1.3886420343550046
+Matrisome-associated,ECM-affiliated,LMAN1,355910.5,0.5577580187638068
+Matrisome-associated,ECM-affiliated,CLEC11A,264568.4,0.4146130743867078
+Matrisome-associated,ECM-affiliated,COLEC12,202880.9,0.3179407430492161
+Matrisome-associated,ECM-affiliated,LGALS7,194081.6,0.30415109611688795
+Matrisome-associated,ECM-affiliated,PLXNB1,147526.75,0.23119359444203932
+Core matrisome,Proteoglycans,LUM,113545030,53.873668346188744
+Core matrisome,Proteoglycans,OGN,22780937,10.808862744176649
+Core matrisome,Proteoglycans,HSPG2,15915329,7.55134025827885
+Core matrisome,Proteoglycans,FMOD,15517925,7.362784129530205
+Core matrisome,Proteoglycans,DCN,14711803,6.980303722641709
+Core matrisome,Proteoglycans,PRELP,11037210,5.236820942380638
+Core matrisome,Proteoglycans,ASPN,8289641,3.9331828961863713
+Core matrisome,Proteoglycans,VCAN,5400701,2.5624686039620572
+Core matrisome,Proteoglycans,PRELP,2150028.4,1.020123178940433
+Core matrisome,Proteoglycans,BGN,996439.3,0.472780185758095
+Core matrisome,Proteoglycans,ACAN,212681.79000000004,0.10091105015986841
+Core matrisome,Proteoglycans,PODN,203920.2,0.09675394179638226
+Matrisome-associated,Secreted Factors,S100A4,24822800,69.29928008154722
+Matrisome-associated,Secreted Factors,S100A11,7570132,21.133985598815734
+Matrisome-associated,Secreted Factors,S100A10,710949.7,1.9848003603216386
+Matrisome-associated,Secreted Factors,ANGPTL2,615368.1,1.7179595498956426
+Matrisome-associated,Secreted Factors,HCFC1,539390.3,1.505847828325966
+Matrisome-associated,Secreted Factors,S100A14,338786.6,0.9458106048179539
+Matrisome-associated,Secreted Factors,IGF2,313133,0.874191931199346
+Matrisome-associated,Secreted Factors,IL17D,232521.18,0.6491431416968213
+Matrisome-associated,Secreted Factors,GDF7,217335.11999999997,0.6067473190952137
+Matrisome-associated,Secreted Factors,CHRD,212402.3,0.5929760735156718
+Matrisome-associated,Secreted Factors,ANGPT4,184079.4,0.5139053570847432
+Matrisome-associated,Secreted Factors,GDF6,62810.62999999999,0.17535215368404983
